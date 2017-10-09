@@ -1,0 +1,1 @@
+# CryptoCurrency trend analysis
